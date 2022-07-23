@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main1() {
 	printf("안녕하세요 반갑습니다\n ^^");
 	printf("Hello World ^^");
 	//초록색으로
