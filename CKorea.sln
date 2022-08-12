@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32630.192
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CKorea", "CKorea\CKorea.vcxproj", "{2ABAC432-058F-4571-B273-A0601B220D59}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day5", "Day5\Day5.vcxproj", "{078E67D0-72DA-414D-AAAF-C05B52CDC8AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Piano", "Piano\Piano.vcxproj", "{912805EC-0A68-4065-B5B6-D962A969A523}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{2ABAC432-058F-4571-B273-A0601B220D59}.Release|x64.Build.0 = Release|x64
 		{2ABAC432-058F-4571-B273-A0601B220D59}.Release|x86.ActiveCfg = Release|Win32
 		{2ABAC432-058F-4571-B273-A0601B220D59}.Release|x86.Build.0 = Release|Win32
+		{078E67D0-72DA-414D-AAAF-C05B52CDC8AF}.Debug|x64.ActiveCfg = Debug|x64
+		{078E67D0-72DA-414D-AAAF-C05B52CDC8AF}.Debug|x64.Build.0 = Debug|x64
+		{078E67D0-72DA-414D-AAAF-C05B52CDC8AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{078E67D0-72DA-414D-AAAF-C05B52CDC8AF}.Debug|x86.Build.0 = Debug|Win32
+		{078E67D0-72DA-414D-AAAF-C05B52CDC8AF}.Release|x64.ActiveCfg = Release|x64
+		{078E67D0-72DA-414D-AAAF-C05B52CDC8AF}.Release|x64.Build.0 = Release|x64
+		{078E67D0-72DA-414D-AAAF-C05B52CDC8AF}.Release|x86.ActiveCfg = Release|Win32
+		{078E67D0-72DA-414D-AAAF-C05B52CDC8AF}.Release|x86.Build.0 = Release|Win32
+		{912805EC-0A68-4065-B5B6-D962A969A523}.Debug|x64.ActiveCfg = Debug|x64
+		{912805EC-0A68-4065-B5B6-D962A969A523}.Debug|x64.Build.0 = Debug|x64
+		{912805EC-0A68-4065-B5B6-D962A969A523}.Debug|x86.ActiveCfg = Debug|Win32
+		{912805EC-0A68-4065-B5B6-D962A969A523}.Debug|x86.Build.0 = Debug|Win32
+		{912805EC-0A68-4065-B5B6-D962A969A523}.Release|x64.ActiveCfg = Release|x64
+		{912805EC-0A68-4065-B5B6-D962A969A523}.Release|x64.Build.0 = Release|x64
+		{912805EC-0A68-4065-B5B6-D962A969A523}.Release|x86.ActiveCfg = Release|Win32
+		{912805EC-0A68-4065-B5B6-D962A969A523}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
