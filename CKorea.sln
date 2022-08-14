@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CKorea", "CKorea\CKorea.vcxproj", "{2ABAC432-058F-4571-B273-A0601B220D59}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day1", "CKorea\CKorea.vcxproj", "{2ABAC432-058F-4571-B273-A0601B220D59}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day5", "Day5\Day5.vcxproj", "{078E67D0-72DA-414D-AAAF-C05B52CDC8AF}"
 EndProject
@@ -11,7 +11,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Piano", "Piano\Piano.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day6", "Day6\Day6.vcxproj", "{F36F88DC-AF5C-4FBD-BFCD-E05F1C44D2B8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day71", "Day71\Day71.vcxproj", "{BCFCBA0D-4FFD-49C5-A75F-FE871EC7740C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day7", "Day71\Day71.vcxproj", "{BCFCBA0D-4FFD-49C5-A75F-FE871EC7740C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day8", "Day8\Day8.vcxproj", "{6780DD8A-1470-4733-A437-28560AD12DFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{BCFCBA0D-4FFD-49C5-A75F-FE871EC7740C}.Release|x64.Build.0 = Release|x64
 		{BCFCBA0D-4FFD-49C5-A75F-FE871EC7740C}.Release|x86.ActiveCfg = Release|Win32
 		{BCFCBA0D-4FFD-49C5-A75F-FE871EC7740C}.Release|x86.Build.0 = Release|Win32
+		{6780DD8A-1470-4733-A437-28560AD12DFA}.Debug|x64.ActiveCfg = Debug|x64
+		{6780DD8A-1470-4733-A437-28560AD12DFA}.Debug|x64.Build.0 = Debug|x64
+		{6780DD8A-1470-4733-A437-28560AD12DFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{6780DD8A-1470-4733-A437-28560AD12DFA}.Debug|x86.Build.0 = Debug|Win32
+		{6780DD8A-1470-4733-A437-28560AD12DFA}.Release|x64.ActiveCfg = Release|x64
+		{6780DD8A-1470-4733-A437-28560AD12DFA}.Release|x64.Build.0 = Release|x64
+		{6780DD8A-1470-4733-A437-28560AD12DFA}.Release|x86.ActiveCfg = Release|Win32
+		{6780DD8A-1470-4733-A437-28560AD12DFA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
